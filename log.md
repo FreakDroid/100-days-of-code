@@ -13,4 +13,4 @@
 
 **Today's Progress**: I started the Sass course and I feel excited.
 
-**Thoughts** I've recently started coding on Sass, the course is amazing. Today I didn't work on algorithm from hacker rank, because I was focused on the course.
+**Thoughts** I've recently started coding on Sass, the course is amazing but my Internet connection is not very good. Today I didn't work on algorithm from hacker rank, because I was focused on the course.
