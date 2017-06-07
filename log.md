@@ -14,3 +14,10 @@
 **Today's Progress**: I started the Sass course and I feel excited.
 
 **Thoughts** I've recently started coding on Sass, the course is amazing but my Internet connection is not very good. Today I didn't work on algorithm from hacker rank, because I was focused on the course.
+
+
+### Day 2
+
+**Today's Progress**: I'm still doing the Sass course.
+
+**Thoughts** I've started to code pretty hard on Sass, I've created the final project for this course although I don't wanna spoil you it's a personal web site. I didn't create a repo for this yet because I'm waiting for move more deep on the course.
