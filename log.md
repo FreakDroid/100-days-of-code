@@ -21,3 +21,12 @@
 **Today's Progress**: I'm still doing the Sass course.
 
 **Thoughts** I've started to code pretty hard on Sass, I've created the final project for this course although I don't wanna spoil you it's a personal web site. I didn't create a repo for this yet because I'm waiting for move more deep on the course.
+
+
+### Day 3
+
+**Today's Progress**: I decided to back to Hacker Rank, so I took a break of Sass course.
+
+**Thoughts** Today I resolve a problem about code at Hacker Rank (Link bellow), I was doing the 30 days of code challenge, but for work reason I was delayed. So Today I resolved this make me win 30 point there.
+
+**Link(s) to work**: [Haker Rank](https://www.hackerrank.com/challenges/30-inheritance)
